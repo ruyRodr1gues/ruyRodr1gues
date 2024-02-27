@@ -1,9 +1,9 @@
 ### Olá, me chamo Ruy! Prazer.
 
 
-- 🔭  Atualmente trabalho com desenvolvimento mobile iOS na BRQ Digital Solutions!
-- 📚  Estudando: Swift, JavaScript e Laravel.
-- ✍️ Cursando o 6º período de Engenharia de Software, Unifil (Londrina, PR).
+- 🔭  Atualmente trabalho com desenvolvimento mobile iOS na BRQ Digital Solutions, no cliente Itaú!
+- 📚  Estudando: Swift, JavaScript, Laravel e Python.
+- ✍️ Cursando o 7º período de Engenharia de Software, Unifil (Londrina, PR).
 
   ##
 <div>
